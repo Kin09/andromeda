@@ -1,1 +1,1 @@
-# WordPress Theme andromeda
+# WordPress Theme - Andromeda
