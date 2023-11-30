@@ -5,3 +5,6 @@
  * @package Andromeda
  */
 ?>
+<footer>Footer</footer>
+    </body>
+</html>

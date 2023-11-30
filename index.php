@@ -6,18 +6,13 @@
  *
  * @package andromeda
  */
-
+get_header();
 ?>
-<!doctype html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, user-scalable=no, initial ">
-        <meta http-equiv="X-UA-Compatible"content="ie=edge">
-        <title>WordPress Theme</title>
-    </head>
-    <body>
-    <header>Header</Header>
-    <footer>Footer</footer>
-    </body>
-</html>
+ 
+<div class="content">
+     Content
+</div>
+
+<?php 
+get_footer(); 
+
